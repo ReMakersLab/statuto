@@ -33,7 +33,24 @@ Ed in particolare persegue le seguenti finalità:
 - opera di consulenza e accentratore catalitico tra realtà affini, favorendo la condivisione di servizi comuni, la fidelizzazione e la co-creazione (per progetti hardware e software).
 
 
-Art. 4. L'associazione realizza i propri scopi con le seguenti attività: ............................. .
+Art. 4. L'associazione realizza i propri scopi con le seguenti attività:
+- Promozione e la divulgazione della cultura Open Source, e degli strumenti su di essa basati;
+- promuovere la formazione, la conoscenza e la ricerca tramite sistemi e metodi di problem solving, sul riuso, sul riciclo.
+- formazione per l'uso di mezzi e strumenti per la produzione, riparazione, progettazione autonoma;
+- allargare gli orizzonti degli associati e di terzi affinché sappiano trasmettere ]a passione per la cultura come un bene per la persona ed un valore sociale che permette di progettare e garantirsi un futuro;
+- divulgare l'etica e i metodi della ecosostenibilità;
+- promuovere e organizzare attività formative, informative, ricreative, turistiche, musicali, terapeutiche, oltre che prodotti-servizi, convegni, mostre e workshop;
+- essere un luogo di incontro e scambio sociale culturale e artistico fra le persone, favorendo la condivisione reciproca di idee ed esperienze;
+- promuovere la coesione sociale e l'integrazione, attraverso attività di ricerca, di sperimentazione, di progettazione e di gestione di progetti e servizi educativi, sociali, formativi, sanitari, educativi, tecnologici, innovativi, culturali e ambientali;
+- valorizzazione di metodi produttivi attenti all'impatto ambientale;
+- sostenere e divulgare l'utilizzo di mezzi di prototipazione digitali e di design aperto;
+- promuovere e creare tecnologie biomediche e di smart health;
+- promozione di reti di condivisione tra fab]ab esistenti sul territorio nazionale ed estero;
+- valorizzazione di metodi produttivi non massificati, la centralità della formazione e dello scambio di conoscenze come mezzo di crescita, la centralità della rete come mezzo di condivisione del proprio operato;
+- offrire un luogo di scambio e di creazione;
+- promuovere l'educazione, la formazione di base e l'alta formazione per portare nuove competenze e conoscenze ai cittadini e incrementare il livello di conoscenza in ambito software e hardware;
+-  mettere a disposizione dei soci e dalla comunità macchine necessarie per coprire tutti i vari livelli di fabbricazione digitale;
+- promuovere la ricerca scientifica su vari livelli.
 
 Art. 5. Per lo svolgimento delle predette attività l'associazione si avvale prevalentemente dell'attività di volontariato dei propri associati o delle persone aderenti agli enti associati. Per il perseguimento dei propri scopi l'associazione potrà inoltre aderire anche ad altri organismi, tra cui le reti associative, di cui condivide finalità e metodi, nonché collaborare con Enti pubblici e privati al fine del conseguimento delle finalità statutarie.
 
