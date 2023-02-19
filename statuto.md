@@ -25,7 +25,13 @@ u)  beneficenza,  sostegno  a  distanza,  cessione  gratuita   di alimenti o pro
 v) promozione della cultura della legalita',  della  pace  tra  i popoli, della nonviolenza e della difesa non armata; 
 w) promozione e tutela  dei  diritti  umani,  civili,  sociali  e politici, nonche' dei diritti dei consumatori e  degli  utenti  delle attivita'  di  interesse  generale  di  cui  al  presente   articolo, promozione delle  pari  opportunita'  e  delle  iniziative  di  aiuto reciproco, incluse le banche dei tempi di cui all'articolo  27  della legge 8 marzo 2000, n. 53, e i gruppi di  acquisto  solidale  di  cui all'articolo 1, comma 266, della legge 24 dicembre 2007, n. 244; 
 z) riqualificazione di  beni  pubblici  inutilizzati  o  di  beni confiscati alla criminalita' organizzata.
-Ed in particolare persegue le seguenti finalità: ................................ .
+Ed in particolare persegue le seguenti finalità:
+- Promozione della Fabbricazione Digitale e del Design condiviso;
+- Promozione dell'Hardware e del Software Libero;
+- Promozione dello Sviluppo Sostenibile;
+- Proporre spazi di ricerca e coordinamento di iniziative volte a favorire la nascita della cultura del personal fabrication attraverso la condivisione di conoscenze e connessioni;
+- opera di consulenza e accentratore catalitico tra realtà affini, favorendo la condivisione di servizi comuni, la fidelizzazione e la co-creazione (per progetti hardware e software).
+
 
 Art. 4. L'associazione realizza i propri scopi con le seguenti attività: ............................. .
 
