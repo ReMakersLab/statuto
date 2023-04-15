@@ -30,7 +30,8 @@ Ed in particolare persegue le seguenti finalità:
 - Promozione dell'Hardware e del Software Libero;
 - Promozione dello Sviluppo Sostenibile;
 - Proporre spazi di ricerca e coordinamento di iniziative volte a favorire la nascita della cultura del personal fabrication attraverso la condivisione di conoscenze e connessioni;
-- opera di consulenza e accentratore catalitico tra realtà affini, favorendo la condivisione di servizi comuni, la fidelizzazione e la co-creazione (per progetti hardware e software).
+- opera di consulenza e accentratore catalitico tra realtà affini, favorendo la condivisione di servizi comuni, la fidelizzazione e la co-creazione (per progetti hardware e software);
+- Concessione di spazi e condivisione di attrezzature con startup innovative per favorire l'imprenditoria giovanile e l'occupazione lavorativa dei soci;
 
 
 Art. 4. L'associazione realizza i propri scopi con le seguenti attività:
