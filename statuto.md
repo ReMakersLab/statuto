@@ -58,7 +58,7 @@ Art. 6. Ai sensi dell'art. 6 del D.Lgs. 117 /2017 l'associazione potrà svolgere
 
 Soci
 
-Art. 7. Possono diventare soci dell'associazione tutti coloro che ne fanno richiesta, ne condividono gli scopi e intendano impegnarsi per la loro realizzazione. Possono essere ammessi come associati altri enti del Terzo settore o senza scopo di lucro, a condizione che il loro numero non sia superiore al cinquanta per cento del numero delle associazioni di promozione sociale aderenti. Il mantenimento della qualifica di socio è subordinato al pagamento della quota associativa annuale nei termini prescritti dal Consiglio Direttivo. 
+Art. 7. Possono diventare soci dell'associazione tutti coloro che ne fanno richiesta, ne condividono gli scopi e intendano impegnarsi per la loro realizzazione. Possono essere ammessi soci minorenni, in tal caso questi eserciteranno il loro diritto di voto mediante l'intervento di chi ne esercita la responsabilità genitoriale ma non possono concorrere alle elezioni per gli organi sociali. Possono essere ammessi come associati altri enti del Terzo settore o senza scopo di lucro, a condizione che il loro numero non sia superiore al cinquanta per cento del numero delle associazioni di promozione sociale aderenti. Il mantenimento della qualifica di socio è subordinato al pagamento della quota associativa annuale nei termini prescritti dal Consiglio Direttivo. 
 
 Art. 8. La domanda di ammissione a socio deve essere presentata al Consiglio Direttivo. Il Consiglio deciderà sull'accoglimento o il rigetto dell'ammissione dell'aspirante. L'adesione del socio è annotata nel libro soci. 
 
